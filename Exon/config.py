@@ -44,25 +44,25 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
     # ᴀᴅᴅ ʏᴏᴜʀ ᴠᴇʀs  (ᴍᴀɪɴ ᴠᴇʀs)
-    API_ID = "11597868"
-    API_HASH = "326ae14ebe620f6a77277f4b979299a9"
+    API_ID = "18561098"
+    API_HASH = "cce47e38584bbfeb3e671f502d101dc0"
     EVENT_LOGS = "-1001497222182"
-    DATABASE_URI = "postgres://ftmhhlpp:vXFSn6lNyTwI_OOTbGSBbdsQI9hABC1f@ella.db.elephantsql.com/ftmhhlpp"  # elephantsql.com
+    DATABASE_URI = "postgres://hixgclvpdizioi:63b5a4b7c6cd2f2bef4c584d9b5683356513d271ce521bcf16b0bd4d7570aee4@ec2-44-210-50-83.compute-1.amazonaws.com:5432/d8pduljstj6d9e"  # elephantsql.com
     REDIS_URL = "redis://default:imP6xyfvlFsVpzFbciK3dIx9Vde05pav@redis-17127.c239.us-east-1-2.ec2.cloud.redislabs.com:17127/default"  # redis.os
-    MONGO_DB_URL = "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"  # cloud.mongodb.com/
+    MONGO_DB_URL = "mongodb+srv://userbot:userbot@cluster0.x6kstu2.mongodb.net/?retryWrites=true&w=majority"  # cloud.mongodb.com/
     TOKEN = "5341310610:AAHnI4cmrvej7JjusO146iBMSQcEjGyX-6g"
-    OWNER_USERNAME = "Abishnoi1M"
+    OWNER_USERNAME = "fLyLoNg"
     OWNER_ID = "1452219013"
-    SUPPORT_CHAT = "AbishnoiMF"
+    SUPPORT_CHAT = "NOOBCREATOR"
 
     # ɴᴏᴛ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴢᴏɴᴇ, ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴇᴅɪᴛ
-    MONGO_DB = "Exon"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    MONGO_DB = "DORA"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     ARQ_API_URL = "https://arq.hamker.in"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     ARQ_API_KEY = "TENRCY-KDKSK-MSMSM-OXQYYO-ARQ"
-    DONATION_LINK = "t.me/AbishnoiMF"
+    DONATION_LINK = "t.me/pirokid"
     HELP_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
     START_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
-    UPDATES_CHANNEL = "Abishnoi_bots"
+    UPDATES_CHANNEL = "NOOBXCREATOR"
     INFOPIC = False
     GENIUS_API_TOKEN = "28jwoKAkskaSjsnsksAjnwjUJwj"
     SPAMWATCH_API = None
@@ -85,7 +85,7 @@ class Config(object):
     ALLOW_EXCL = []
     ALLOW_CHATS = True
     CERT_PATH = []
-    SPAMWATCH_SUPPORT_CHAT = "AbishnoiMF"
+    SPAMWATCH_SUPPORT_CHAT = "NOOBCREATOR"
     BOT_API_URL = "https://api.telegram.org/bot"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     DRAGONS = get_user_list("elevated_users.json", "sudos")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     DEV_USERS = get_user_list("elevated_users.json", "devs")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
