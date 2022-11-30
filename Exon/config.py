@@ -50,7 +50,7 @@ class Config(object):
     DATABASE_URI = "postgres://ftmhhlpp:vXFSn6lNyTwI_OOTbGSBbdsQI9hABC1f@ella.db.elephantsql.com/ftmhhlpp"  # elephantsql.com
     REDIS_URL = "redis://default:imP6xyfvlFsVpzFbciK3dIx9Vde05pav@redis-17127.c239.us-east-1-2.ec2.cloud.redislabs.com:17127/default"  # redis.os
     MONGO_DB_URL = "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"  # cloud.mongodb.com/
-    TOKEN = ""
+    TOKEN = "5341310610:AAHnI4cmrvej7JjusO146iBMSQcEjGyX-6g"
     OWNER_USERNAME = "Abishnoi1M"
     OWNER_ID = "1452219013"
     SUPPORT_CHAT = "AbishnoiMF"
