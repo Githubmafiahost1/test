@@ -87,13 +87,13 @@ class Config(object):
     CERT_PATH = []
     SPAMWATCH_SUPPORT_CHAT = "NOOBCREATOR"
     BOT_API_URL = "https://api.telegram.org/bot"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    DRAGONS = get_user_list("elevated_users.json", "sudos")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    DEV_USERS = get_user_list("elevated_users.json", "devs")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    REQUESTER = get_user_list("elevated_users.json", "whitelists")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    DEMONS = get_user_list("elevated_users.json", "supports")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    INSPECTOR = get_user_list("elevated_users.json", "sudos")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    TIGERS = get_user_list("elevated_users.json", "tigers")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
-    WOLVES = get_user_list("elevated_users.json", "whitelists")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    DRAGONS = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    DEV_USERS = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    REQUESTER = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    DEMONS = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    INSPECTOR = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    TIGERS = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
+    WOLVES = get_user_list("elevated_users.json", "5656382791")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
 
 
 class Production(Config):
